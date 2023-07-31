@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#model file
+*.h5
+#Dataset Folder
+mask_detection_dataset/
+
 # Distribution / packaging
 .Python
 build/
