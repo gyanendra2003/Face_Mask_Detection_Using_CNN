@@ -1,7 +1,7 @@
 # Face_Mask_Detection_Using_CNN
 
 ### Live Demo by Camera
-![Alt text](<Live Demo Snapshot.png>)
+![Live Demo Snapshot](https://github.com/gyanendra2003/Face_Mask_Detection_Using_CNN/assets/109502452/bd6ceb1e-4829-47d5-b12e-1c15bc834af7)
 
 ## Results on Images
 
